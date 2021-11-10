@@ -3,11 +3,11 @@ QT += core gui widgets
 CONFIG += c++11
 
 SOURCES += \
-           button.cpp \
-           line-edit.cpp \
+          
+           
     responsive_label.cpp \
     responsive_layout.cpp \
-           spinbox.cpp \
+           
             main.cpp
 
 # Default rules for deployment.
