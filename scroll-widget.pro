@@ -3,12 +3,9 @@ QT += core gui widgets
 CONFIG += c++11
 
 SOURCES += \
-          
-           
     responsive_label.cpp \
     responsive_layout.cpp \
-           
-            main.cpp
+    main.cpp
 
 # Default rules for deployment.
 
